@@ -15,7 +15,7 @@ namespace Test1_Anagram
 
             do
             {
-                Console.WriteLine("Please Enter a Word: ");
+                Console.WriteLine("Please Enter a Words: ");
                 userInput = Console.ReadLine();
 
                 if (string.IsNullOrEmpty(userInput))
